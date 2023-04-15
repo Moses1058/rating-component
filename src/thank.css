@@ -1,0 +1,24 @@
+.thank {
+    padding: 34px 27px 37px 24px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.selected {
+    margin: 24px 0;
+    width: 168px;
+    height: 32px;
+    background-color: #262E38;
+    border-radius: 22.5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.selected p {
+    margin: 0;
+    color: #FC7614;
+}
